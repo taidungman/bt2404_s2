@@ -1,6 +1,6 @@
-Processor: Qualcomm Snapdragon XR2 Gen 2, optimized for spatial computing and mixed reality workloads
+Processor: Qualcomm Snapdragon XR2 Gen 4, optimized for spatial computing and mixed reality workloads
 Display: Dual LCD panels (RGB stripe) with 2064×2208 resolution per eye
 Refresh Rate: Supports up to 120 Hz  
-Storage Options: Available in 128 GB and 512 GB models
-Weight: Around 515 grams with the standard headstrap
+Storage Options: Unlimited
+Weight: Around 400 grams with the standard headstrap
  
